@@ -1,5 +1,5 @@
 {
-  "name": "webpack-starter",
+  "name": "googlepay",
   "version": "1.0.0",
   "description": "A light foundation for your next frontend project based on webpack.",
   "scripts": {
@@ -18,7 +18,7 @@
     "javascript",
     "webdev"
   ],
-  "author": "webkid.io",
+  "author": "Jingbo",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wbkd/webpack-starter/issues"
@@ -48,6 +48,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.8.7",
+    "axios": "^0.19.2",
     "core-js": "^3.6.5"
   }
 }
